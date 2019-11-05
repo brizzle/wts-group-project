@@ -1,6 +1,6 @@
 # WTS Group, LLC #
 
-### Pages ###
+## Pages ##
 <br/>
 
 **Home Page**
@@ -11,15 +11,12 @@
 - Mission statement
 
 **Team Page**
-<br/>
 - Show team members
 - Talk about each team member and their background and expertise
 
 **Contact Us Page**
-<br/>
 - Email
 - Map of where the company is located
-- 
 
 **About Us Page**
 <br/>
